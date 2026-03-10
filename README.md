@@ -1,2 +1,3 @@
-# Python_calculator-
-Python Calculator supporting +, -, *, / with operation history and error handling
+# 🧮 Python Calculator - Casablanca Edition
+
+**Smart Calculator** supporting **+, -, *, /, %** with **operation history**, **error handling**, and **Moroccan VAT (20%)**!
